@@ -1,0 +1,2 @@
+# MinVariabledemo
+Project demo 
